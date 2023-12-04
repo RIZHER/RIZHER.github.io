@@ -1,0 +1,54 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #f5eaaa;
+}
+
+#projects {
+  background-color: #f5eaaa;
+}
+
+section {
+  padding-top: 5rem;
+}
+
+p {
+  text-align: justify;
+}
+
+.logo-atas {
+  width: 30px;
+  height: 30px;
+}
+
+.navbar {
+  background-color: #ebb625;
+}
+
+.logo-home {
+  width: 20%;
+}
+
+.nama {
+  padding-top: 40px;
+}
+
+.btn {
+  background-color: #ebb625;
+  color: white;
+}
+
+.btn:hover {
+  background-color: #2560eb;
+  color: white;
+}
+
+.btn-table {
+  width: 60px;
+  height: 30px;
+  padding: 0px;
+  background-color: #198754;
+}
+
+.close {
+  background-color: #dc3545;
+}
