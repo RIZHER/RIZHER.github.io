@@ -35,6 +35,17 @@ p {
 .btn {
   background-color: #ebb625;
   color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.atas p{
+  height: 90px;
+}
+
+.bawah p{
+  height: 130px;
 }
 
 .btn:hover {
