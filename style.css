@@ -63,3 +63,12 @@ p {
 .close {
   background-color: #dc3545;
 }
+
+.contact-info img{
+  width: 5%;
+}
+
+.contact-info a{
+  padding: 1%;
+  text-decoration: none;
+}
